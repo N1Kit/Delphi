@@ -1,4 +1,4 @@
-unit Unit1;
+vgnhfhunit Unit1;
 
 interface
 
@@ -11,7 +11,7 @@ type
   private
     { Private declarations }
   public
-    { Public declarations }
+    { Public declarations }         utrfjurtf
   end;
 
 var
